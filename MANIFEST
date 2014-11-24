@@ -19,6 +19,7 @@ META.yml
 Prague.pm
 README
 share/prague-map.xml
+SIGNATURE
 t/Map-Tube-Prague/00-use.t
 t/Map-Tube-Prague/01-version.t
 t/Map-Tube-Prague/02-pod_coverage.t
