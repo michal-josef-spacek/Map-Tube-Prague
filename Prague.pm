@@ -13,11 +13,12 @@ use namespace::clean;
 # Version.
 our $VERSION = 0.02;
 
+# Get XML.
 has xml => (
 	'is' => 'ro',
 	'default' => sub {
 		return dist_file('Map-Tube-Prague', 'prague-map.xml');
-	}
+	},
 );
 
 with 'Map::Tube';
