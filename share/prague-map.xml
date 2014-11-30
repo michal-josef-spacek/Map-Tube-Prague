@@ -1,13 +1,15 @@
 <tube>
   <stations>
+    <!-- Stations with multiple lines. -->
+    <station id="MUSTEK" name="Můstek" line="Linka A,Linka B" link="A04,MUZEUM,B12,B14"/>
+    <station id="MUZEUM" name="Muzeum" line="Linka A,Linka C" link="MUSTEK,A07,C09,C11"/>
+
     <!-- https://cs.wikipedia.org/wiki/A_(linka_metra_v_Praze) -->
     <station id="A01" name="Dejvická" line="Linka A" link="A02"/>
     <station id="A02" name="Hradčanská" line="Linka A" link="A01,A03"/>
     <station id="A03" name="Malostranská" line="Linka A" link="A02,A04"/>
-    <station id="A04" name="Staroměstská" line="Linka A" link="A03,A05"/>
-    <station id="A05" name="Můstek" line="Linka A" link="A04,A06,B12,B14"/>
-    <station id="A06" name="Muzeum" line="Linka A" link="A05,A07,C09,C11"/>
-    <station id="A07" name="Náměstí Míru" line="Linka A" link="A06,A08"/>
+    <station id="A04" name="Staroměstská" line="Linka A" link="A03,MUSTEK"/>
+    <station id="A07" name="Náměstí Míru" line="Linka A" link="MUZEUM,A08"/>
     <station id="A08" name="Jiřího z Poděbrad" line="Linka A" link="A07,A09"/>
     <station id="A09" name="Flora" line="Linka A" link="A08,A10"/>
     <station id="A10" name="Želivského" line="Linka A" link="A09,A11"/>
@@ -27,9 +29,8 @@
     <station id="B09" name="Smíchovské nádraží" line="Linka B" link="B08,B10"/>
     <station id="B10" name="Anděl" line="Linka B" link="B09,B11"/>
     <station id="B11" name="Karlovo náměstí" line="Linka B" link="B10,B12"/>
-    <station id="B12" name="Národní třída" line="Linka B" link="B11,B13"/>
-    <station id="B13" name="Můstek" line="Linka B" link="A04,A06,B12,B14"/>
-    <station id="B14" name="Náměstí Republiky" line="Linka B" link="B13,B15"/>
+    <station id="B12" name="Národní třída" line="Linka B" link="B11,MUSTEK"/>
+    <station id="B14" name="Náměstí Republiky" line="Linka B" link="MUSTEK,B15"/>
     <station id="B15" name="Florenc" line="Linka B" link="B14,B16,C07,C09"/>
     <station id="B16" name="Křižíkova" line="Linka B" link="B15,B17"/>
     <station id="B17" name="Invalidovna" line="Linka B" link="B16,B18"/>
@@ -50,9 +51,8 @@
     <station id="C06" name="Nádraží Holešovice" line="Linka C" link="C05,C07"/>
     <station id="C07" name="Vltavská" line="Linka C" link="C06,C08"/>
     <station id="C08" name="Florenc" line="Linka C" link="B14,B16,C07,C09"/>
-    <station id="C09" name="Hlavní nádraží" line="Linka C" link="C08,C10"/>
-    <station id="C10" name="Muzeum" line="Linka C" link="A05,A07,C09,C11"/>
-    <station id="C11" name="I. P. Pavlova" line="Linka C" link="C10,C12"/>
+    <station id="C09" name="Hlavní nádraží" line="Linka C" link="C08,MUZEUM"/>
+    <station id="C11" name="I. P. Pavlova" line="Linka C" link="MUZEUM,C12"/>
     <station id="C12" name="Vyšehrad" line="Linka C" link="C11,C13"/>
     <station id="C13" name="Pražského povstání" line="Linka C" link="C12,C14"/>
     <station id="C14" name="Pankrác" line="Linka C" link="C13,C15"/>
