@@ -87,7 +87,7 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
  print "Route: ".encode_utf8($route)."\n";
 
  # Output:
- # Route: Dejvická, Hradčanská, Malostranská, Staroměstská, Náměstí Republiky, Vltavská, Nádraží Holešovice, Kobylisy, Ládví
+ # Route: Dejvická (Linka A), Hradčanská (Linka A), Malostranská (Linka A), Staroměstská (Linka A), Můstek (Linka A,Linka B), Muzeum (Linka A,Linka C), Hlavní nádraží (Linka C), Florenc (Linka C), Vltavská (Linka C), Nádraží Holešovice (Linka C), Kobylisy (Linka C), Ládví (Linka C)
 
 =head1 EXAMPLE2
 
