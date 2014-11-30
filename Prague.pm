@@ -136,6 +136,8 @@ L<Map::Tube>,
 L<Map::Tube::Barcelona>,
 L<Map::Tube::Delhi>,
 L<Map::Tube::London>,
+L<Map::Tube::NYC>,
+L<Map::Tube::Sofia>,
 L<Map::Tube::Tokyo>.
 
 =head1 REPOSITORY
