@@ -37,6 +37,8 @@ Map::Tube::Prague - Interface to the Prague Tube Map.
 
  use Map::Tube::Prague;
  my $obj = Map::Tube::Prague->new;
+ my $station = $obj->get_node_by_id($station_id);
+ my $station = $obj->get_node_by_name($station_name);
  my $route = $obj->get_shortest_route($from, $to);
  my $xml_file = $obj->xml;
 
@@ -54,6 +56,16 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
 =item C<new()>
 
  Constructor.
+
+=item C<get_node_by_id($station_id)>
+
+ Get station node by id.
+ Returns Map::Tube::Node object.
+
+=item C<get_node_by_name($station_name)>
+
+ Get station node by name.
+ Returns Map::Tube::Node object.
 
 =item C<get_shortest_route($from, $to)>
 

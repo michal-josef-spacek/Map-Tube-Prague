@@ -1,4 +1,6 @@
 0.02
+ - Add get_node_by_id() and get_node_by_name() new methods from 2.27
+   Map::Tube to doc.
  - Fix EXAMPLE1 section in doc with new 2.27 API.
  - Fix stations XML map.
  - Update to new 2.27 API.
