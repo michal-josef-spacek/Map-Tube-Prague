@@ -1,4 +1,4 @@
-0.02
+0.02 2014-11-30T23:14:14+01:00
  - Add get_node_by_id() and get_node_by_name() new methods from 2.27
    Map::Tube to doc.
  - Fix EXAMPLE1 section in doc with new 2.27 API.
