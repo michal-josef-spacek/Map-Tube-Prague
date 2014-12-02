@@ -138,7 +138,8 @@ L<Map::Tube::Delhi>,
 L<Map::Tube::London>,
 L<Map::Tube::NYC>,
 L<Map::Tube::Sofia>,
-L<Map::Tube::Tokyo>.
+L<Map::Tube::Tokyo>,
+L<Map::Tube::Warsaw>.
 
 =head1 REPOSITORY
 
