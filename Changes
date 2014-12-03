@@ -1,4 +1,4 @@
-0.03
+0.03 2014-12-03T07:59:33+01:00
  - Add Map::Tube::NYC and Map::Tube::Sofia to SEE ALSO section in doc.
  - Add Map::Tube::Warsaw to SEE ALSO section in doc.
  - Fix Florenc station in XML map.
