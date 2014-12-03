@@ -1,6 +1,7 @@
 <tube>
   <stations>
     <!-- Stations with multiple lines. -->
+    <station id="FLORENC" name="Florenc" line="Linka B,Linka C" link="B14,B16,C07,C09"/>
     <station id="MUSTEK" name="Můstek" line="Linka A,Linka B" link="A04,MUZEUM,B12,B14"/>
     <station id="MUZEUM" name="Muzeum" line="Linka A,Linka C" link="MUSTEK,A07,C09,C11"/>
 
@@ -30,9 +31,8 @@
     <station id="B10" name="Anděl" line="Linka B" link="B09,B11"/>
     <station id="B11" name="Karlovo náměstí" line="Linka B" link="B10,B12"/>
     <station id="B12" name="Národní třída" line="Linka B" link="B11,MUSTEK"/>
-    <station id="B14" name="Náměstí Republiky" line="Linka B" link="MUSTEK,B15"/>
-    <station id="B15" name="Florenc" line="Linka B" link="B14,B16,C07,C09"/>
-    <station id="B16" name="Křižíkova" line="Linka B" link="B15,B17"/>
+    <station id="B14" name="Náměstí Republiky" line="Linka B" link="MUSTEK,FLORENC"/>
+    <station id="B16" name="Křižíkova" line="Linka B" link="FLORENC,B17"/>
     <station id="B17" name="Invalidovna" line="Linka B" link="B16,B18"/>
     <station id="B18" name="Palmovka" line="Linka B" link="B17,B19"/>
     <station id="B19" name="Českomoravská" line="Linka B" link="B18,B20"/>
@@ -49,9 +49,8 @@
     <station id="C04" name="Ládví" line="Linka C" link="C03,C05"/>
     <station id="C05" name="Kobylisy" line="Linka C" link="C04,C06"/>
     <station id="C06" name="Nádraží Holešovice" line="Linka C" link="C05,C07"/>
-    <station id="C07" name="Vltavská" line="Linka C" link="C06,C08"/>
-    <station id="C08" name="Florenc" line="Linka C" link="B14,B16,C07,C09"/>
-    <station id="C09" name="Hlavní nádraží" line="Linka C" link="C08,MUZEUM"/>
+    <station id="C07" name="Vltavská" line="Linka C" link="C06,FLORENC"/>
+    <station id="C09" name="Hlavní nádraží" line="Linka C" link="FLORENC,MUZEUM"/>
     <station id="C11" name="I. P. Pavlova" line="Linka C" link="MUZEUM,C12"/>
     <station id="C12" name="Vyšehrad" line="Linka C" link="C11,C13"/>
     <station id="C13" name="Pražského povstání" line="Linka C" link="C12,C14"/>
