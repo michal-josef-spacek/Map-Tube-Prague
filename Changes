@@ -1,6 +1,7 @@
 0.04
  - Add Map::Tube::Berlin and Map::Tube::Moscow to SEE ALSO section in doc.
  - Add get_all_routes() method from Map::Tube 2.30 api.
+ - Improve abstract to readable version.
 
 0.03 2014-12-03T07:59:33+01:00
  - Add Map::Tube::NYC and Map::Tube::Sofia to SEE ALSO section in doc.

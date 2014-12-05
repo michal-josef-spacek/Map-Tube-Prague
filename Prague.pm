@@ -31,7 +31,7 @@ __END__
 
 =head1 NAME
 
-Map::Tube::Prague - Interface to the Prague Tube Map.
+Map::Tube::Prague - Interface to the Prague Metro Map.
 
 =head1 SYNOPSIS
 

@@ -1,5 +1,5 @@
 NAME
-    Map::Tube::Prague - Interface to the Prague Tube Map.
+    Map::Tube::Prague - Interface to the Prague Metro Map.
 
 SYNOPSIS
      use Map::Tube::Prague;
