@@ -25,7 +25,7 @@
     <station id="B04" name="Lužiny" line="Linka B" link="B03,B05"/>
     <station id="B05" name="Hůrka" line="Linka B" link="B04,B06"/>
     <station id="B06" name="Nové Butovice" line="Linka B" link="B05,B07"/>
-    <station id="B07" name="Jinonice" line="Linka B" link="B05,B08"/>
+    <station id="B07" name="Jinonice" line="Linka B" link="B06,B08"/>
     <station id="B08" name="Radlická" line="Linka B" link="B07,B09"/>
     <station id="B09" name="Smíchovské nádraží" line="Linka B" link="B08,B10"/>
     <station id="B10" name="Anděl" line="Linka B" link="B09,B11"/>
