@@ -1,4 +1,4 @@
-<tube>
+<tube name="Pražské metro">
   <stations>
     <!-- Stations with multiple lines. -->
     <station id="FLORENC" name="Florenc" line="Linka B,Linka C" link="B14,B16,C07,C09"/>

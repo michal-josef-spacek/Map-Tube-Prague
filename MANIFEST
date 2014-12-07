@@ -25,4 +25,5 @@ t/Map-Tube-Prague/01-version.t
 t/Map-Tube-Prague/02-pod_coverage.t
 t/Map-Tube-Prague/03-pod.t
 t/Map-Tube-Prague/04-get_shortest_route.t
-t/Map-Tube-Prague/05-xml.t
+t/Map-Tube-Prague/05-name.t
+t/Map-Tube-Prague/06-xml.t

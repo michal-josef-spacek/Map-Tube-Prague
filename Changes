@@ -1,6 +1,7 @@
 0.04
  - Add Map::Tube::Berlin and Map::Tube::Moscow to SEE ALSO section in doc.
  - Add get_all_routes() method from Map::Tube 2.30 api.
+ - Add metro name.
  - Describe get_all_routes() method as EXPERIMENTAL.
  - Fix get_shortest_route() method description in doc.
  - Fix map (bad edge between Jinonice and Nové Butovice).
