@@ -1,5 +1,6 @@
 0.04
  - Add Map::Tube::Berlin and Map::Tube::Moscow to SEE ALSO section in doc.
+ - Add Map::Tube::Kiev and Map::Tube::Minsk to SEE ALSO section in doc.
  - Add get_all_routes() method from Map::Tube 2.30 api.
  - Add metro name.
  - Describe get_all_routes() method as EXPERIMENTAL.
