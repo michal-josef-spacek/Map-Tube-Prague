@@ -157,7 +157,7 @@ L<Map::Tube::Warsaw>.
 
 =head1 REPOSITORY
 
-L<https://github.com/Manwar/Map-Tube-Prague>
+L<https://github.com/tupinek/Map-Tube-Prague>
 
 =head1 AUTHOR
 
