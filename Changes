@@ -1,4 +1,5 @@
 0.05
+ - Remove executable bit from prague-map.xml file.
 
 0.04 2014-12-12T08:17:01+01:00
  - Add Map::Tube::Bucharest, Map::Tube::Kazan, Map::Tube::Kharkiv and
