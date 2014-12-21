@@ -92,8 +92,8 @@ DEPENDENCIES
     File::Share, Map::Tube, Moo, namespace::clean.
 
 SEE ALSO
-    Map::Tube, Map::Tube::Barcelona, Map::Tube::Berlin,
-    Map::Tube::Bucharest, Map::Tube::Delhi, Map::Tube::Kazan,
+    Map::Tube, Map::Tube::GraphViz, Map::Tube::Text::Table.
+
     Map::Tube::Kharkiv, Map::Tube::Kiev, Map::Tube::London,
     Map::Tube::Minsk, Map::Tube::Moscow, Map::Tube::NYC, Map::Tube::Samara,
     Map::Tube::Sofia, Map::Tube::Tokyo, Map::Tube::Warsaw.

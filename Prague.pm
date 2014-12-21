@@ -145,6 +145,9 @@ L<namespace::clean>.
 =head1 SEE ALSO
 
 L<Map::Tube>,
+L<Map::Tube::GraphViz>,
+L<Map::Tube::Text::Table>.
+
 L<Map::Tube::Barcelona>,
 L<Map::Tube::Berlin>,
 L<Map::Tube::Bucharest>,
