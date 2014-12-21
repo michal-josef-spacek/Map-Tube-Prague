@@ -152,17 +152,22 @@ L<Map::Tube::Barcelona>,
 L<Map::Tube::Berlin>,
 L<Map::Tube::Bucharest>,
 L<Map::Tube::Delhi>,
+L<Map::Tube::Dnipropetrovsk>,
 L<Map::Tube::Kazan>,
 L<Map::Tube::Kharkiv>,
 L<Map::Tube::Kiev>,
 L<Map::Tube::London>,
 L<Map::Tube::Minsk>,
 L<Map::Tube::Moscow>,
+L<Map::Tube::Novosibirsk>,
 L<Map::Tube::NYC>,
+L<Map::Tube::SaintPetersburg>,
 L<Map::Tube::Samara>,
 L<Map::Tube::Sofia>,
+L<Map::Tube::Tbilisi>,
 L<Map::Tube::Tokyo>,
-L<Map::Tube::Warsaw>.
+L<Map::Tube::Warsaw>,
+L<Map::Tube::Yekaterinburg>.
 
 =head1 REPOSITORY
 

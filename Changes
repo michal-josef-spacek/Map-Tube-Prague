@@ -1,4 +1,7 @@
 0.05
+ - Add Map::Tube::Dnipropetrovsk, Map::Tube::Novosibirsk,
+   Map::Tube::SaintPetersburg, Map::Tube::Tbilisi and
+   Map::Tube::Yekaterinburg to SEE ALSO section in doc.
  - Add Map::Tube::GraphViz and Map::Tube::Text::Table to SEE ALSO section
    in doc.
  - Remove executable bit from prague-map.xml file.
