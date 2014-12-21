@@ -117,7 +117,6 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
 
  # Pragmas.
  use strict;
- use utf8;
  use warnings;
 
  # Modules.
