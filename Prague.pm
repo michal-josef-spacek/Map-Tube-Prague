@@ -201,6 +201,7 @@ L<Map::Tube::Samara>,
 L<Map::Tube::Sofia>,
 L<Map::Tube::Tbilisi>,
 L<Map::Tube::Tokyo>,
+L<Map::Tube::Vienna>,
 L<Map::Tube::Warsaw>,
 L<Map::Tube::Yekaterinburg>.
 

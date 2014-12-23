@@ -128,7 +128,7 @@ SEE ALSO
     Map::Tube::Minsk, Map::Tube::Moscow, Map::Tube::Novosibirsk,
     Map::Tube::NYC, Map::Tube::SaintPetersburg, Map::Tube::Samara,
     Map::Tube::Sofia, Map::Tube::Tbilisi, Map::Tube::Tokyo,
-    Map::Tube::Warsaw, Map::Tube::Yekaterinburg.
+    Map::Tube::Vienna, Map::Tube::Warsaw, Map::Tube::Yekaterinburg.
 
 REPOSITORY
     <https://github.com/tupinek/Map-Tube-Prague>
