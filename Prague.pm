@@ -178,8 +178,8 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Prague/master/images/Prague.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Prague/master/images/Prague.png" alt="Pražské metro" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Prague/master/images/ex3.png">
+  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Prague/master/images/ex3.png" alt="Pražské metro" width="300px" height="300px" />
 </a>
 
 =end html

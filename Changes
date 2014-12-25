@@ -3,6 +3,7 @@
  - Add get_lines() method to doc.
  - Add get_stations() method to doc.
  - Improve EXAMPLE3 section in doc.
+ - Rename images/Prague.png to images/ex3.png.
 
 0.06 2014-12-22T01:16:24+01:00
  - Fix examples/ex3.pl example.
