@@ -1,5 +1,6 @@
 0.07
  - Add Map::Tube::Vienna to SEE ALSO section in doc.
+ - Add Task::Map::Tube to SEE ALSO section in doc.
  - Add get_lines() method to doc.
  - Add get_stations() method to doc.
  - Improve EXAMPLE3 section in doc.
