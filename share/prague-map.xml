@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tube name="Pražské metro">
+  <lines>
+    <line id="A" name="Linka A" color="green"/>
+    <line id="B" name="Linka B" color="yellow"/>
+    <line id="C" name="Linka C" color="red"/>
+  </lines>
   <stations>
     <!-- Stations with multiple lines. -->
     <station id="FLORENC" name="Florenc" line="Linka B,Linka C" link="B14,B16,C07,C09"/>
