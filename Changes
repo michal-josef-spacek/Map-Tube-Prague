@@ -1,4 +1,7 @@
 0.08
+ - Add Map::Tube::Plugin::FuzzyFind, Map::Tube::Glasgow,
+   Map::Tube::KoelnBonn, Map::Tube::Lyon and Map::Tube::Singapore to SEE
+   ALSO section in doc.
  - Update README file.
 
 0.07 2015-01-25T01:21:51+01:00
