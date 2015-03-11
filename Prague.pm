@@ -173,7 +173,7 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
  system "ls -l Prague.png";
 
  # Output like:
- # -rw-r--r-- 1 skim skim 175854 Jan 25 01:20 Prague.png
+ # -rw-r--r-- 1 skim skim 166159 Mar 11 07:54 Prague.png
 
 =begin html
 

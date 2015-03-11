@@ -1,5 +1,6 @@
 0.09
  - Fix test dependency (Test::Map::Tube).
+ - Rewrite junctions in XML file to line stations with multiple names.
 
 0.08 2015-03-10T07:41:45+01:00
  - Add Map::Tube::Plugin::FuzzyFind, Map::Tube::Glasgow,
