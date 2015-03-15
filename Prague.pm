@@ -197,6 +197,7 @@ L<Map::Tube::Graph>,
 L<Map::Tube::GraphViz>,
 L<Map::Tube::Plugin::FuzzyFind>,
 L<Map::Tube::Plugin::Graph>,
+L<Map::Tube::Text::Shortest>,
 L<Map::Tube::Text::Table>,
 L<Task::Map::Tube>.
 
