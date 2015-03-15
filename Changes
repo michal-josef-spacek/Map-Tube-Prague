@@ -1,6 +1,7 @@
 0.10
  - Add Map::Tube::Text::Shortest to SEE ALSO section in doc.
  - Add test comment.
+ - Rewrite to new 'other_link' attribute in Map::Tube 2.89.
 
 0.09 2015-03-11T07:55:05+01:00
  - Fix test dependency (Test::Map::Tube).

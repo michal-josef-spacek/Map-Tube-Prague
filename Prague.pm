@@ -123,7 +123,7 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
  print "Route: ".encode_utf8($route)."\n";
 
  # Output:
- # Route: Dejvická (Linka A), Hradčanská (Linka A), Malostranská (Linka A), Staroměstská (Linka A), Můstek (Linka A,Linka B), Muzeum (Linka A,Linka C), Hlavní nádraží (Linka C), Florenc (Linka C), Vltavská (Linka C), Nádraží Holešovice (Linka C), Kobylisy (Linka C), Ládví (Linka C)
+ # Route: Dejvická (Linka A), Hradčanská (Linka A), Malostranská (Linka A), Staroměstská (Linka A), Můstek (Linka A, Tunnel), Můstek (Linka B, Tunnel), Náměstí Republiky (Linka B), Florenc (Linka B, Tunnel), Florenc (Linka C, Tunnel), Vltavská (Linka C), Nádraží Holešovice (Linka C), Kobylisy (Linka C), Ládví (Linka C)
 
 =head1 EXAMPLE2
 
@@ -173,7 +173,7 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
  system "ls -l Prague.png";
 
  # Output like:
- # -rw-r--r-- 1 skim skim 166159 Mar 11 07:54 Prague.png
+ # -rw-r--r-- 1 skim skim 165897 Mar 15 23:20 Prague.png
 
 =begin html
 
