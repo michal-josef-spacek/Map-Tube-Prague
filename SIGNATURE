@@ -14,18 +14,18 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 6d675ee89dde0de25b8d563aa1fd23ca5ba38e20 Changes
+SHA1 f36084e3640fe696c7282ea581edcdb9d98b440b Changes
 SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
 SHA1 507a10efa92555ddddfbe72be27964d9e3eef80f LICENSE.bsd
 SHA1 f41c7bdc60071957936410b9dd1c9e59c7ad34bd MANIFEST
-SHA1 54a5557a359fa2c43be27b90ee0334a23034a0ce META.yml
-SHA1 d88a87e54efdd11c54b9fa1eb30b488ca512fa0c Makefile.PL
-SHA1 34a2463cd9708d2d6a4b7194f792bd94237ee71b Prague.pm
-SHA1 696d7c69427707e74efe56ccd19df5c2d69036eb README
+SHA1 fb85da0225ea8d35bb50f04f82154fc6827dd42b META.yml
+SHA1 593c6b4a6d5b6a5f4867613e682228995ce0a03c Makefile.PL
+SHA1 0905602574b9243ccbad3c486f96b705c619e4c7 Prague.pm
+SHA1 3210cbbb0e0806a384db8396360e9dda70227dad README
 SHA1 d09bd8f255f4dcd6de35b4c00a963eaf4724ca50 examples/ex1.pl
 SHA1 f4922de87d6c36561d44f47c603d12061b90fcd8 examples/ex2.pl
-SHA1 2aed00eca588840e31d0fdfcef1b87dc4a26ed67 examples/ex3.pl
-SHA1 916c88e667838563d9cf19fdde39a2f09f6956a7 images/ex3.png
+SHA1 3aa052ccc361e539fe7ae2360c25a9e56c68b2d2 examples/ex3.pl
+SHA1 9995ba6fc4caa96c28859506d48cb4b6e5608933 images/ex3.png
 SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
 SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
 SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
@@ -36,9 +36,9 @@ SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.p
 SHA1 3283fb3bb58e10c29029567e63b805cdeb66af10 inc/Module/Install/Share.pm
 SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
 SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
-SHA1 f8cc43b2da591cf0010861551396fb81df0f18c3 share/prague-map.xml
+SHA1 d1a64e3ddfab6a8793b48b602b8c4b854f814258 share/prague-map.xml
 SHA1 d023926295b877a7afc5e4150efa275efb0c6988 t/Map-Tube-Prague/00-use.t
-SHA1 bd949d84c69ea6a5e02056bb5af88c81222bd1df t/Map-Tube-Prague/01-version.t
+SHA1 3b57d3e36fad45628cd044ee25136ecd8cf374a7 t/Map-Tube-Prague/01-version.t
 SHA1 6fe209b8ef0b16356fbecffbbfac8caad7df08aa t/Map-Tube-Prague/02-pod_coverage.t
 SHA1 370b4b92f4a7f1d45436a6af7f99ffe5a0e58e36 t/Map-Tube-Prague/03-pod.t
 SHA1 6d941258a48014106991ef7c14001ee4ba3f3ffc t/Map-Tube-Prague/04-map.t
@@ -48,11 +48,11 @@ SHA1 1633ad86850dc689ed530a6482b5f622a22589d2 t/Map-Tube-Prague/07-xml.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (GNU/Linux)
 
-iQEcBAEBAgAGBQJVBgYjAAoJEJe+XXKaIuTlPrQH/idj888kVSL/nKXRAVKg0Fok
-AK9lUaDyJwrl2l37RHNuUqVVijG9Xexz4kpErfEETOz40Cy6g7KVa70FrvbeSum0
-STfVCJEhIB+HKL14fnaDR1tEdlXyagduf+lMbZUCRCTX9QYHeoDMIPZ+XHMkbh5J
-uzvrJne8e75CzNUVC6XkoHjgxXnbxzwBIRyLgvi+SfIfTktLwb2nlS5hNH48vfNR
-nlQV25kZp5VH8vHD2zI0kw4XSOljk/+Qej+Qu9984Q3bn/Gu1fCzMqZ6iOCXOrom
-9NsC2GfQQrDkY+Sj2CJFDAROkxtZLtm3CtxTZ8feJ64xbdDK4M3kyUMkAMStTyE=
-=DEfD
+iQEcBAEBAgAGBQJVIvkxAAoJEJe+XXKaIuTlkFkIAItcJA73Jy4nkWGYUYx7c7lA
+uRfnqpXnCx1L9U0EyrTBKRTM5XgNAwXFQGLe6ROBrt9WDHqXf/l6Cmtj3Fgb87wN
+2DovJsz1//+ijeXfqJcyInUgbAz2uib68JvLetmUBmU/clCOEpvrSqp1FWWOjW67
+H1+JehEqi288ILBu5PaTrmB5PI3lg7Zzzcz/dz1zE/ngYZgJFLpEr6PKpy5oxjq2
+ntdf3WrZjyJNnhLE2VkSBFtV4GozR00uEbD1QVUgikgok3ZbC8duDbbgxubp0fWO
+8zvtgkcEampt/8OyEbwHOT2OLB2F3izTFSZaLLX3LydhnhOwzq3Hvh99Dm4fRzY=
+=zeV/
 -----END PGP SIGNATURE-----
