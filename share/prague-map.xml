@@ -7,19 +7,23 @@
   </lines>
   <stations>
     <!-- https://cs.wikipedia.org/wiki/A_(linka_metra_v_Praze) -->
-    <station id="A01" name="Dejvická" line="Linka A" link="A02"/>
-    <station id="A02" name="Hradčanská" line="Linka A" link="A01,A03"/>
-    <station id="A03" name="Malostranská" line="Linka A" link="A02,A04"/>
-    <station id="A04" name="Staroměstská" line="Linka A" link="A03,A05"/>
-    <station id="A05" name="Můstek" line="Linka A" link="A04,A06" other_link="Tunnel:B13"/>
-    <station id="A06" name="Muzeum" line="Linka A" link="A05,A07" other_link="Tunnel:C10"/>
-    <station id="A07" name="Náměstí Míru" line="Linka A" link="A06,A08"/>
-    <station id="A08" name="Jiřího z Poděbrad" line="Linka A" link="A07,A09"/>
-    <station id="A09" name="Flora" line="Linka A" link="A08,A10"/>
-    <station id="A10" name="Želivského" line="Linka A" link="A09,A11"/>
-    <station id="A11" name="Strašnická" line="Linka A" link="A10,A12"/>
-    <station id="A12" name="Skalka" line="Linka A" link="A11,A13"/>
-    <station id="A13" name="Depo Hostivař" line="Linka A" link="A12"/>
+    <station id="A01" name="Nemocnice Motol" line="Linka A" link="A02"/>
+    <station id="A02" name="Petřiny" line="Linka A" link="A01,A03"/>
+    <station id="A03" name="Nádraží Veleslavín" line="Linka A" link="A02,A04"/>
+    <station id="A04" name="Bořislavka" line="Linka A" link="A03,A05"/>
+    <station id="A05" name="Dejvická" line="Linka A" link="A04,A06"/>
+    <station id="A06" name="Hradčanská" line="Linka A" link="A05,A07"/>
+    <station id="A07" name="Malostranská" line="Linka A" link="A06,A08"/>
+    <station id="A08" name="Staroměstská" line="Linka A" link="A07,A09"/>
+    <station id="A09" name="Můstek" line="Linka A" link="A08,A10" other_link="Tunnel:B13"/>
+    <station id="A10" name="Muzeum" line="Linka A" link="A09,A11" other_link="Tunnel:C10"/>
+    <station id="A11" name="Náměstí Míru" line="Linka A" link="A10,A12"/>
+    <station id="A12" name="Jiřího z Poděbrad" line="Linka A" link="A11,A13"/>
+    <station id="A13" name="Flora" line="Linka A" link="A12,A14"/>
+    <station id="A14" name="Želivského" line="Linka A" link="A13,A15"/>
+    <station id="A15" name="Strašnická" line="Linka A" link="A14,A16"/>
+    <station id="A16" name="Skalka" line="Linka A" link="A15,A17"/>
+    <station id="A17" name="Depo Hostivař" line="Linka A" link="A16"/>
 
     <!-- https://cs.wikipedia.org/wiki/B_(linka_metra_v_Praze) -->
     <station id="B01" name="Zličín" line="Linka B" link="B02"/>

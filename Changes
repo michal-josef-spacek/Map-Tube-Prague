@@ -1,4 +1,5 @@
 0.11
+ - Add new stations to line A.
 
 0.10 2015-03-15T23:22:25+01:00
  - Add Map::Tube::Text::Shortest to SEE ALSO section in doc.
