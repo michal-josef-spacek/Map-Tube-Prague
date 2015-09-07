@@ -187,6 +187,29 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
  # Output like:
  # -rw-r--r-- 1 skim skim 166110 Apr  6 23:12 Prague.png
 
+=head1 EXAMPLE4
+
+ # Pragmas.
+ use strict;
+ use warnings;
+
+ # Modules.
+ use Map::Tube::Prague;
+
+ # Object.
+ my $obj = Map::Tube::Prague->new;
+
+ # Get lines.
+ my $lines_ar = $obj->get_lines;
+
+ # Print out.
+ map { print $_->name."\n"; } sort @{$lines_ar};
+
+ # Output:
+ # Linka A
+ # Linka B
+ # Linka C
+
 =begin html
 
 <a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Prague/master/images/ex3.png">
