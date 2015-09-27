@@ -187,6 +187,14 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
  # Output like:
  # -rw-r--r-- 1 skim skim 166110 Apr  6 23:12 Prague.png
 
+=begin html
+
+<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Prague/master/images/ex3.png">
+  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Prague/master/images/ex3.png" alt="Pražské metro" width="300px" height="300px" />
+</a>
+
+=end html
+
 =head1 EXAMPLE4
 
  # Pragmas.
@@ -209,14 +217,6 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
  # Linka A
  # Linka B
  # Linka C
-
-=begin html
-
-<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Prague/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Prague/master/images/ex3.png" alt="Pražské metro" width="300px" height="300px" />
-</a>
-
-=end html
 
 =head1 DEPENDENCIES
 
