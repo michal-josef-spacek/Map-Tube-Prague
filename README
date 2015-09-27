@@ -135,6 +135,28 @@ EXAMPLE3
      # Output like:
      # -rw-r--r-- 1 skim skim 166110 Apr  6 23:12 Prague.png
 
+EXAMPLE4
+     # Pragmas.
+     use strict;
+     use warnings;
+
+     # Modules.
+     use Map::Tube::Prague;
+
+     # Object.
+     my $obj = Map::Tube::Prague->new;
+
+     # Get lines.
+     my $lines_ar = $obj->get_lines;
+
+     # Print out.
+     map { print $_->name."\n"; } sort @{$lines_ar};
+
+     # Output:
+     # Linka A
+     # Linka B
+     # Linka C
+
 DEPENDENCIES
     File::Share, Map::Tube, Moo, namespace::clean.
 
