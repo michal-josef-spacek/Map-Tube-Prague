@@ -1,5 +1,6 @@
 0.13
  - Add tests for get_node_by_id() and get_node_by_name() methods.
+ - Improve description for get_lines() in doc.
  - Update dependency to Map::Tube to 3.01.
  - Update to Map::Tube 3.06.
 
