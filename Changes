@@ -1,7 +1,8 @@
 0.14
  - Add EXAMPLE5 section to doc.
  - Add test for get_lines().
- - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
+ - Fix encoding in Changes file.
+ - Fix Makefile.PL for new version of Perl and no default Â»use lib '.'Â«.
  - Implement station order.
  - Rewrite XML map to new version with line IDs.
  - Update Module::Install to 1.18 version.
@@ -81,7 +82,7 @@
  - Describe get_all_routes() method as EXPERIMENTAL.
  - Fix REPOSITORY section in doc.
  - Fix get_shortest_route() method description in doc.
- - Fix map (bad edge between Jinonice and Nové Butovice).
+ - Fix map (bad edge between Jinonice and NovÃ© Butovice).
  - Improve abstract to readable version.
 
 0.03 2014-12-03T07:59:33+01:00
