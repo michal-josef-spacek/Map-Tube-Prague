@@ -36,6 +36,7 @@ Map::Tube::Prague - Interface to the Prague Metro Map.
 =head1 SYNOPSIS
 
  use Map::Tube::Prague;
+
  my $obj = Map::Tube::Prague->new;
  my $routes_ar = $obj->get_all_routes($from, $to);
  my $line = $obj->get_line_by_id($line_id);
