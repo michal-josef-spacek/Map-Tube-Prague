@@ -1,16 +1,13 @@
 package Map::Tube::Prague;
 
-# Pragmas.
 use strict;
 use warnings;
 use 5.006;
 
-# Modules.
 use File::Share ':all';
 use Moo;
 use namespace::clean;
 
-# Version.
 our $VERSION = 0.15;
 
 # Get XML.
@@ -118,11 +115,9 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
 
 =head1 EXAMPLE1
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Encode qw(decode_utf8 encode_utf8);
  use Map::Tube::Prague;
 
@@ -140,11 +135,9 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
 
 =head1 EXAMPLE2
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Map::Tube::Prague;
 
  # Object.
@@ -161,11 +154,9 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
 
 =head1 EXAMPLE3
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Map::Tube::GraphViz;
  use Map::Tube::GraphViz::Utils qw(node_color_without_label);
  use Map::Tube::Prague;
@@ -198,11 +189,9 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
 
 =head1 EXAMPLE4
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Map::Tube::Prague;
 
  # Object.
@@ -221,11 +210,9 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
 
 =head1 EXAMPLE5
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Encode qw(encode_utf8);
  use Map::Tube::Prague;
 
