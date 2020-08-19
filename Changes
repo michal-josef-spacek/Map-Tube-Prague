@@ -1,5 +1,6 @@
 0.15
  - Fix use lib in Makefile.PL.
+ - Update dependency to Map::Tube.
 
 0.14 2020-08-19T18:00:32+02:00
  - Add EXAMPLE5 section to doc.
