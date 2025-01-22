@@ -115,6 +115,8 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
 
 =head1 EXAMPLE1
 
+=for comment filename=print_prague_route.pl
+
  use strict;
  use warnings;
 
@@ -135,6 +137,8 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
 
 =head1 EXAMPLE2
 
+=for comment filename=print_prague_def_xml_file.pl
+
  use strict;
  use warnings;
 
@@ -153,6 +157,8 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
  # XML file: .*/prague-map.xml
 
 =head1 EXAMPLE3
+
+=for comment filename=print_prague_image.pl
 
  use strict;
  use warnings;
@@ -189,6 +195,8 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
 
 =head1 EXAMPLE4
 
+=for comment filename=print_prague_lines.pl
+
  use strict;
  use warnings;
 
@@ -209,6 +217,8 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
  # Linka C
 
 =head1 EXAMPLE5
+
+=for comment filename=print_prague_line_stations.pl
 
  use strict;
  use warnings;
