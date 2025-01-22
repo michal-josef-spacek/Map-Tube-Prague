@@ -1,5 +1,6 @@
 0.16
  - Fix stations on multiple lines.
+ - Rename and regen image in doc.
  - Rename example files to better names.
  - Update Module::Install to 1.21 version.
  - Update copyright years.

@@ -183,12 +183,12 @@ For more information about Prague Map, click L<here|https://en.wikipedia.org/wik
  system "ls -l Prague.png";
 
  # Output like:
- # -rw-r--r-- 1 skim skim 166110 Apr  6 23:12 Prague.png
+ # -rw-r--r-- 1 skim skim 188225 22. led 09.13 Prague.png
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Prague/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Prague/master/images/ex3.png" alt="Pražské metro" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Prague/master/images/Prague.png">
+  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Prague/master/images/Prague.png" alt="Pražské metro" width="300px" height="300px" />
 </a>
 
 =end html
