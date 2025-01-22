@@ -1,4 +1,5 @@
 0.16
+ - Fix stations on multiple lines.
  - Update Module::Install to 1.21 version.
  - Update copyright years.
 
